@@ -1,6 +1,6 @@
 # ClipBoard
 
-## Systematic Edit Tools with Speculative Analysis and Naming Synthesis
+## Systematic Edit Eclipse Plugin with Speculative Analysis and Naming Synthesis
 
 Program transformation by demonstration can be helpful to complete the code automatically based on the examples given by developers. For instance, automatic transformation can be done with systematic edits that are similar but not identical edits to multiple locations for bug fixes, feature editions, and new API adaptation. However, existed transformation tools are not popular because of its tedious configuration process, unintuitive variable names, and lack of impact analysis.
 
